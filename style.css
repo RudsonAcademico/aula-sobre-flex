@@ -1,14 +1,14 @@
 .conteine{
     background-color: aquamarine;
     display: flex;
-    padding: 20px;
+    padding: 0.5%;
     gap: 1%;
 
 }
 .box{
     background-color: rgb(138, 43, 226);
     height: 200px;
-    width: 150px;
+    width: 8%;
     border-radius: 10px;
     margin-right: 33%;
 }
@@ -16,19 +16,19 @@
 .box1{
     background-color: rgb(226, 43, 43);
     height: 200px;
-    width: 150px;
+    width: 8%;
     border-radius: 10px;
 }
 .box2{
     background-color: rgb(43, 153, 226);
     height: 200px;
-    width: 150px;
+    width: 8%;
     border-radius: 10px;
 }
 .boxC{
     background-color: rgb(241, 229, 58);
     height: 200px;
-    width: 150px;
+    width: 8%;
     border-radius: 10px;
     margin-right: 33%;
 }
