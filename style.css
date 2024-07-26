@@ -10,7 +10,7 @@
     height: 200px;
     width: 150px;
     border-radius: 10px;
-    margin-right: 60%;
+    margin-right: 33%;
 }
 
 .box1{
@@ -24,4 +24,11 @@
     height: 200px;
     width: 150px;
     border-radius: 10px;
+}
+.boxC{
+    background-color: rgb(241, 229, 58);
+    height: 200px;
+    width: 150px;
+    border-radius: 10px;
+    margin-right: 33%;
 }
